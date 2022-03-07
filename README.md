@@ -209,7 +209,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/khahesham/khahesham/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/khahesham/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
@@ -217,9 +217,9 @@
 
 ------
 
-[Rahul Dhanola](https://github.com/DHANOLA)
+[Khaled Hesham](https://github.com/khahesham)
 
-Last Edited on: 09/09/2021
+
 
 
 ------
