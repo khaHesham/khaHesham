@@ -193,7 +193,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+  <img src="https://profile-counter.glitch.me/khahesham/count.svg" />  
 </p>
    
   
@@ -209,7 +209,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/KHAHESHAM/KHAHESHAM/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
