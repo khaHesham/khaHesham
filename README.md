@@ -170,10 +170,10 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="linkedin.com/in/khaled-hesham-6394561b5" target="_blank">
+<a href="linkedin.com/in/khaled-hesham-6394561b5">
   <img align="center" alt="Khaled Hesham | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/khaled.heshaam/?hl=en" target="_blank">
+<a href="https://www.instagram.com/khaled.heshaam/?hl=en">
   <img align="center" alt="Khaled Hesham | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:kha.hesham@gmail.com" >
