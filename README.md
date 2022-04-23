@@ -94,8 +94,10 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=khahesham&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
+  <p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=khahesham&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khahesham&theme=react&layout=compact" />
+</p>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khahesham&theme=dark&hide_border=true" />
 
 
