@@ -8,7 +8,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; 2nd Year copmuter engineering student @Cairo University.
+- 🎓 &nbsp; 2nd Year computer engineering student @Cairo University.
 
 
 <br>
