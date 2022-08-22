@@ -9,6 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; 2nd Year computer engineering student @Cairo University.
+- ♚ &nbsp; Iam currently working on my Chess Engine.
 
 
 <br>
