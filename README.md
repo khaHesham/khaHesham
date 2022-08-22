@@ -7,9 +7,13 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; 2nd Year computer engineering student @Cairo University.
-- ♚ &nbsp; Iam currently working on my Chess Engine.
+- 🤔&nbsp; Exploring new technologies and developing programming insights.
+- 🎓&nbsp; 2nd Year computer engineering student @Cairo University.
+- ♟️ &nbsp;Iam currently working on my Chess Engine.
+- 🧠&nbsp;Iam currently learning Machine Learning and Artificial Intelligance.
+- 📊&nbsp;Iam currently learning Data Analysis.
+- 🕸️&nbsp;Iam currently learning NodeJs
+- 📱&nbsp;Ask me about Flutter. 
 
 
 <br>
