@@ -24,7 +24,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-## <img align="center"  height =50px src="images/skills.gif">Technical Skills
+## <img align="center"  height =50px src="images/skills.gif">Stack I Work With
 
 
 <br>
