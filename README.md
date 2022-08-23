@@ -5,7 +5,6 @@
 
 ## I'm Khaled Hesham.
 
-### 💻 &nbsp;About Me 
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
 
 - 🤔&nbsp; Exploring new technologies and developing programming insights.
