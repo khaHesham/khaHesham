@@ -9,11 +9,12 @@
 
 - 🤔&nbsp; Exploring new technologies and developing programming insights.
 - 🎓&nbsp; 2nd Year computer engineering student @Cairo University.
-- ♟️ &nbsp;Iam currently working on my Chess Engine.
-- 🧠&nbsp;Iam currently learning Machine Learning and Artificial Intelligance.
-- 📊&nbsp;Iam currently learning Data Analysis.
-- 🕸️&nbsp;Iam currently learning NodeJs
-- 📱&nbsp;Ask me about Flutter. 
+- ♟️ &nbsp;I'am currently working on my Chess Engine.
+- 🧠&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
+- 📊&nbsp;I'am currently learning Data Analysis.
+- 🕸️&nbsp;I'am currently learning NodeJs
+- 🚀&nbsp;I'am passionate about Artificial intelligance,Deep Learning and Competitive Programming.
+- ❤️‍&nbsp;Ask me about anything i will be always happy to help. 
 
 
 <br>
