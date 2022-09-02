@@ -1,9 +1,7 @@
 
 
 <div align="center">
-
-**"Premature optimization is the root of all evil"**
-
+##**"You don't have to be great to start, but you have to start to be great"**
 </div>
 
 
