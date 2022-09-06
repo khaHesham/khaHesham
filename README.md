@@ -13,7 +13,7 @@
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
 
 - 🤔&nbsp; Exploring new technologies and developing programming insights.
-- 🎓&nbsp; 2nd Year computer engineering student @Cairo University.
+- 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - ♟️ &nbsp;I'am currently working on my Chess Engine.
 - 🧠&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
 - 📊&nbsp;I'am currently learning Data Analysis.
