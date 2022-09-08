@@ -1,7 +1,7 @@
 
 
 <div align="center">
- <img align="center"  height =100px  src="images/universe.gif">
+ <img align="center"  height =50px  src="images/universe.gif">_
 "You don't have to be great to start, but you have to start to be great"
 </div>
 
