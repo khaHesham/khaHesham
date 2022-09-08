@@ -1,11 +1,11 @@
 
 
 <div align="center">
- ##<img align="center"  height =50px  src="images/universe.gif">
+ 
 "You don't have to be great to start, but you have to start to be great"
 </div>
 
-
+##<img align="center"  height =50px  src="images/universe.gif">
 ### Hi there 👋
 
 ## I'm Khaled Hesham.
