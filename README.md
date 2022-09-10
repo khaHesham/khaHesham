@@ -203,7 +203,10 @@
   
   
   
-  
+  <div align="center"  height =100px>
+  "Fear can hold you prisoner, Hope can set you free"
+</div>
+
   
   
   
