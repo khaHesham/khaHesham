@@ -18,7 +18,7 @@
 - 🧠&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
 - 📊&nbsp;I'am currently learning Data Analysis.
 - 🕸️&nbsp;I'am currently learning NodeJs
-- 🚀&nbsp;I'am passionate about Artificial intelligance,Deep Learning and Competitive Programming.
+- 🌟&nbsp;I'am passionate about Artificial intelligance,Deep Learning and Competitive Programming.
 - ❤️‍&nbsp;Ask me about anything i will be always happy to help. 
 
 
