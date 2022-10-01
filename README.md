@@ -1,7 +1,7 @@
 
-<div align="center"  height =200px>
+<div align="center"  height =200px><strong>
  You don't have to be great to start, but you have to start to be great
-</div>
+</strong></div>
 
 
 ### Hi there 👋
