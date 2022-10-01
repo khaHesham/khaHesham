@@ -1,6 +1,6 @@
 
-<div align="center"  height =100px>
- ## You don't have to be great to start, but you have to start to be great
+<div align="center"  height =200px>
+ You don't have to be great to start, but you have to start to be great
 </div>
 
 
