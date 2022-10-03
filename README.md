@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ### Worse than losing is not fighting to win. 🏔️
+  ### You Don't ave to be Great to start, But you have to start to be Great. 
 
 </div>
 
