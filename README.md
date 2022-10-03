@@ -1,7 +1,7 @@
 
-<div align="center"  height =200px><strong>
- You don't have to be great to start, but you have to start to be great
-</strong></div>
+<div align="center" >
+### You don't have to be great to start, but you have to start to be great
+</div>
 
 
 ### Hi there 👋
