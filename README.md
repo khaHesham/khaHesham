@@ -21,8 +21,6 @@
 - 🕸️&nbsp;I'am currently learning NodeJs
 - 🌟&nbsp;I'am passionate about Artificial intelligance,Deep Learning and Competitive Programming.
 - ❤️‍&nbsp;Ask me about anything i will be always happy to help. 
-
-
 <br>
 
 
