@@ -210,11 +210,8 @@
   
   
   
- 
-  <br>
-  <p align="center">
-  <img src="https://github.com/khaHesham/khaHesham/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
-</p>
+  ## snake eating my contributions
+![snake gif](https://github.com/khaHesham/khaHesham/blob/output/github-contribution-grid-snake.gif)
 
 
 
