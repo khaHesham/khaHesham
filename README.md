@@ -147,8 +147,10 @@
  <hr>
 
 # ⚡ Recent GitHub Activity
+
 <br>
-  [![Khaled's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khaHesham&theme=react-dark)](https://github.com/khaHesham/github-readme-activity-graph)
+
+  [![Khaled's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khaHesham&theme=react-dark)](https://github.com/khaHesham/githubreadme-activity-graph)
 
 <br/>
 
