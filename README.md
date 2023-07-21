@@ -13,7 +13,7 @@
 
 - 🤔&nbsp; Exploring new technologies and developing programming insights.
 - 🚀 Autonomous Developer <a href="https://www.cu-ecoracingteam.com/?fbclid=IwAR05jG50eTe0CeOTPJCHZ48u6wNetsR4-IIqQkgUS5aj8cEmX4Cpil2Q90Q">@Cairo University Eco Racing Team</a>
-- 📊 Data Engineer Intern <a href="http://eng.cu.edu.eg/ar/">@EJADA</a>
+- 📊 Data Engineer Intern <a href="https://www.ejada.com/web/ejada/home/">@EJADA</a>
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - ♟️ &nbsp;I'am currently working on my Chess Engine.
 - 🧠&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
