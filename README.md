@@ -19,7 +19,7 @@
 - 🕸️ Former ML Engineer Intern <a href="https://technocolabs.com/">@TechnoColabs</a>
 - 🧠&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
 - 💻&nbsp;I'am currently focusing on learning NLP.
-- 🌟&nbsp;I'am passionate about Artificial intelligance,Deep Learning and Competitive Programming.
+- 🌟&nbsp;I'am passionate about Software engineering, Artificial intelligance and Competitive Programming.
 - ❤️‍&nbsp;Ask me about anything i will be always happy to help. 
 <br>
 
