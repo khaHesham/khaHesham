@@ -27,65 +27,53 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-
-## <img align="center"  height =50px src="images/skills.gif">Stack I Work With
-
-
-<br>
-
-<p  align="center">
-
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-  </p>
   
-<p  align="center">
+# 🧰 My Skills
 
-<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
-  &nbsp;
-<img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
-  </p>
-  
-  <p  align="center">
+<div align="center">
 
-  
-<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>  
- </p>
- 
- <p  align="center">
+## Databases
 
-  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-  &nbsp;
+<code><img height="40" title="MySQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mysql.svg"></code>
+<code><img height="40" title="PostgreSQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/Postgresql.svg"></code>
+<code><img height="40" width="40" title="SSMS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/ssms.svg"></code>
+<code><img height="40" width="40" title="MongoDB" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mongodb.svg"></code>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
-&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="25">
-&nbsp;
-  
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
-</p>
-<p align="center">
+## Backend Tools
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+<code><img height="40" title="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="40" title="ExpressJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/express.svg"></code>
+<code><img height="40" title="NestJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/nestjs.svg"></code>
+<code><img height="40" title="Rails" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/rails.svg"></code>
+<code><img height="40" title="Docker" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/docker.svg"></code>
+<code><img height="40" title="Redis" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/redis.svg"></code>
+<code><img height="40" title="Sequelize" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/sequelize.svg"></code>
+<code><img height="40" title="Mongoose" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mongoose.png"></code>
 
-</p>
-<br>
+## Languages
+
+<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" title="TypeScript" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/typescript.svg"></code>
+<code><img height="40" title="Ruby" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/ruby.svg"></code>
+<code><img height="40" title="GoLang" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/go.svg"></code>
+<code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="40" title="Java" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/java.svg"></code>
+<code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" title="x86 Assembly" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/asm.png"></code>
+## Others
+
+<code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" width="40" title="React.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/react.svg"></code>
+<code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+<code><img height="40" title="Linux" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/linux.svg"></code>
+<code><img height="40" title="Jasmine Testing" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/jasmine.svg"></code>
+
+</div>
 
 
 
