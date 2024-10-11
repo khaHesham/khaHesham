@@ -12,9 +12,10 @@
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
 
 - 🤔&nbsp; Exploring new technologies and developing programming insights.
-- 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- 🚀 Autonomous Developer <a href="https://www.cu-ecoracingteam.com/?fbclid=IwAR05jG50eTe0CeOTPJCHZ48u6wNetsR4-IIqQkgUS5aj8cEmX4Cpil2Q90Q">@Cairo University Eco Racing Team</a>
-- 🧑‍💻 SWE Trainee <a href="https://www.siemens.com/global/en.html">@SIEMENS</a>
+- 🎓 Computer Engineering Graduate <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 🚀 Founder Backend Engineer @RA7EEB
+- 🏎️ Former Autonomous Developer <a href="https://www.cu-ecoracingteam.com/?fbclid=IwAR05jG50eTe0CeOTPJCHZ48u6wNetsR4-IIqQkgUS5aj8cEmX4Cpil2Q90Q">@Cairo University Eco Racing Team</a>
+- 🧑‍💻 Former SWE Trainee <a href="https://www.siemens.com/global/en.html">@SIEMENS</a>
 - 📊 Former Data Engineer Intern <a href="https://www.ejada.com/web/ejada/home/">@EJADA</a>
 - 🕸️ Former ML Engineer Intern <a href="https://technocolabs.com/">@TechnoColabs</a>
 - 🧠&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
