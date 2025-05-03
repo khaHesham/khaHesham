@@ -13,6 +13,7 @@
 
 - 🤔&nbsp; Exploring new technologies and developing programming insights.
 - 🎓 Computer Engineering Graduate <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 💻 Software Engineer <a href="https://www.ramyro.com/">@RAMYRO Inc.</a>
 - 🚀 Founder Backend Engineer @RA7EEB
 - 🏎️ Former Autonomous Developer <a href="https://www.cu-ecoracingteam.com/?fbclid=IwAR05jG50eTe0CeOTPJCHZ48u6wNetsR4-IIqQkgUS5aj8cEmX4Cpil2Q90Q">@Cairo University Eco Racing Team</a>
 - 🧑‍💻 Former SWE Trainee <a href="https://www.siemens.com/global/en.html">@SIEMENS</a>
